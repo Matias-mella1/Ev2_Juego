@@ -1,0 +1,1 @@
+En este juego deberás llegar a la meta antes de que se acabe el tiempo o seas alcanzado dos veces por los enemigos. Puedes elegir la dificultad, lo que cambiará la velocidad con la que te persiguen. Si llegas a la meta a tiempo, ¡ganas! Si no, perderás por tiempo o por contacto con los enemigos kamikaze.
